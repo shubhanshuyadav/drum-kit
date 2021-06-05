@@ -50,11 +50,11 @@ function makeSound(key){
                     crash.play();
                     break;
 
-        case "w":   var snare = new Audio('sounds/snare.mp3');
+        case "k":   var snare = new Audio('sounds/snare.mp3');
                     snare.play();
                     break;
 
-        case "w":   var kick = new Audio('sounds/kick.mp3');
+        case "l":   var kick = new Audio('sounds/kick.mp3');
                     kick.play();
                     break;
     
