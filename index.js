@@ -55,7 +55,7 @@ function makeSound(key){
                     break;
 
         case "l":   var kick = new Audio('sounds/kick-bass.mp3');
-                    kick.play();
+                    kick-bass.play();
                     break;
     
         default:    console.log("default click");
